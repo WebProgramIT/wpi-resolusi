@@ -5,6 +5,8 @@ Rencana belajar WPI
 - Javascript
   * ES6
   * Framework Javascript
-- Codenighter
+   ^ Angular
+   ^ React
 - Laravel
 - PHP Frameworks
+   ^ Laravel
