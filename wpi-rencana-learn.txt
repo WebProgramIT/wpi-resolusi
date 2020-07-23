@@ -3,5 +3,7 @@ Rencana belajar WPI
 - MVC
 - GIT GITHUB
 - Javascript
+  * ES6
+  * Framework Javascript
 - Laravel
 - PHP Frameworks
